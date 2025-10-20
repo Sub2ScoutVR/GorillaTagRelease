@@ -1,4 +1,4 @@
 # GorillaTag
 Release versions of Gorilla Tag
 
-uhhh dont rob me, this is mine, i dunno if thats a real license
+uhhh dont rob me, this is LemmingVR aka Another Axiom, i dunno if thats a real license
